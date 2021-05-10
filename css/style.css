@@ -1,0 +1,44 @@
+body {
+  background-color: #1351a8;
+}
+.headers {
+  color: #91c7ff;
+}
+.bodytext {
+  color: #ffffff;
+}
+.card {
+  background-color: #47a0ff;
+}
+.nav-link {
+  font-size: 28px;
+}
+.flavortext {
+  font-family: "Oswald", sans-serif;
+  font-size: 22px;
+}
+.center {
+  justify-content: center;
+}
+.fancy {
+  font-family: "Lobster", cursive;
+}
+.wide {
+  font-family: "Roboto Mono", monospace;
+}
+.merriweather {
+  font-family: "Merriweather", serif;
+}
+.instrument {
+  width: 585px;
+  height: 400px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
+.active {
+  display: flex;
+  justify-content: center;
+}
+$carousel-control-color: $black;
